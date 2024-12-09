@@ -65050,7 +65050,7 @@ function R7() {
       W.jsx("a", {
         target: "_blank",
         rel: "noopener noreferrer",
-        href: "Stronghttps://dashboard-strong-fi.vercel.app/",
+        href: "https://dashboard-strong-fi.vercel.app/",
         className: "ml-1",
         children: W.jsx(Ks, {
           variant: "outlined",
